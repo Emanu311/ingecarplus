@@ -1,2 +1,0 @@
-# ingecarplus
-proyecto sena 
