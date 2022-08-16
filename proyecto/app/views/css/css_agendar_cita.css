@@ -1,0 +1,54 @@
+body{
+    margin: 0;
+    padding: 0; 
+  }
+  /*MAIN*/
+  .main{
+    background: url("https://st1.uvnimg.com/dims4/default/c59a19f/2147483647/resize/1093x820%3E/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fd1%2Ff3%2F8e7325e64441883e4c135a61dddd%2Flos-mejores-carros-2022.jpg");
+    padding: 20px;
+    width: 100%;
+    height: 100%;
+  }
+  
+  /*container*/
+  .container{
+    background-repeat: repeat;
+    background-size: 100%;
+    width: 50%;
+    margin: 0 auto;
+    text-align: center;
+    color: #fff;
+    padding: 30px;
+  }
+  
+  .main h2{
+    font-family: roboto;
+    font-size: 200%;
+  }
+  /*FORM*/
+  .main form{
+    border-radius: 50px;
+    background-color: #0D1525;
+    text-align: center;
+    padding: 20px;
+    font-size: 1.3em;
+  }
+  
+  /*input*/
+  .cajas{
+    border-radius: 10px;
+    margin: 15px 0;
+    border: 2px solid #fff;
+  }
+  
+  /*botón*/
+  .btn{
+    height: 40px;
+    padding: 10px 40px;
+    border-radius: 7px;
+    color: black;
+    font-weight: 700;
+    text-transform: uppercase;
+    border: 0;
+  }
+  
